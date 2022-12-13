@@ -150,5 +150,4 @@ position: relative;
 }
 .Hobbies{align-content: center;margin: auto;width:50%;}
 .ho{width: 515px;height: 515px;}
-.ContactMe{position: static;
-margin: 200px 100px 100px 200px;}
+.ContactMe{width: 100%;}
