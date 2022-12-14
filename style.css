@@ -8,6 +8,7 @@ body {
 .topnav {
   background-color: #800020;
   overflow: hidden;
+  border-top-left-radius: 1rem ;
 }
 
 .topnav a {
@@ -153,5 +154,6 @@ position: relative;
 .ContactMe{width: 100%;
 background-color:#800020;padding: 1em;
 align-items: center;
+border-bottom-right-radius: 2rem;
 }
 
