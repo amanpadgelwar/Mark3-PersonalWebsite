@@ -88,7 +88,7 @@ a {
 
 .skill-row {
   width: 50%;
-    margin:100px auto 100px auto;
+    margin:150px auto 150px auto;
   text-align: left;
   line-height: 2;
   position: relative;
@@ -100,14 +100,14 @@ a {
 
 .skill-row1 {
   width: 50%;
-    margin:300px auto 300px auto;
+  margin:150px auto 150px auto;
   text-align: left;
   line-height: 2;
 position:relative;
 }
 .skill-row2 {
   width: 50%;
-      margin:300px auto 300px auto;
+  margin:150px auto 150px auto;
   text-align: left;
   line-height: 2;
 position: relative;
@@ -116,7 +116,7 @@ position: relative;
 
 .skill-row3{
   width: 50%;
-    margin:300px auto 300px auto;
+  margin:150px auto 150px auto;
   text-align: left;
   line-height: 2;
 
