@@ -123,6 +123,14 @@ position: relative;
 
 }
 
+.MiddleContainerBlogs{
+
+margin: auto;
+width: auto;
+padding: 1rem;
+
+}
+
 
 .FE {
   float: left;
@@ -149,6 +157,7 @@ position: relative;
   width: 300px;
   height:350px;
 }
+
 .Hobbies{align-content: center;margin: auto;width:50%;}
 .ho{width: 515px;height: 515px;}
 .ContactMe{width: 100%;
